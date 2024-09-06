@@ -8,6 +8,7 @@
 
 // imprimir(SOMA);
 
+// Ao final do processamento, qual será o valor da variável SOMA?
 
 let INDICE = 12, SOMA = 0, K = 1;
 
